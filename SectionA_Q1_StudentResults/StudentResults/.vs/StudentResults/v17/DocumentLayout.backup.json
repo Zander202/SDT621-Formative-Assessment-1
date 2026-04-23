@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionA_Q1_StudentResults\\StudentResults\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{748919AF-5C61-46DE-825B-9CFF5E7BDE35}|StudentResults\\StudentResults.csproj|c:\\users\\dzand\\desktop\\repos\\sdt621-formative-assessment-1\\sectiona_q1_studentresults\\studentresults\\studentresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748919AF-5C61-46DE-825B-9CFF5E7BDE35}|StudentResults\\StudentResults.csproj|solutionrelative:studentresults\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionA_Q1_StudentResults\\StudentResults\\StudentResults\\Program.cs",
+              "RelativeDocumentMoniker": "StudentResults\\Program.cs",
+              "ToolTip": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionA_Q1_StudentResults\\StudentResults\\StudentResults\\Program.cs",
+              "RelativeToolTip": "StudentResults\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:07:21.308Z",
+              "EditorCaption": ""
             }
           ]
         }

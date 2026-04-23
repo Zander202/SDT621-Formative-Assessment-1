@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SectionA_Q1_StudentResults",
-    "\\SectionA_Q1_StudentResults\\StudentResults",
-    "\\SectionA_Q1_StudentResults\\StudentResults\\StudentResults"
+    "\\SectionA_Q2_ATMSystem",
+    "\\SectionA_Q2_ATMSystem\\ATMSystem",
+    "\\SectionA_Q2_ATMSystem\\ATMSystem\\ATMSystem"
   ],
-  "SelectedNode": "\\SectionA_Q1_StudentResults\\StudentResults\\StudentResults\\Program.cs",
+  "SelectedNode": "\\SectionA_Q2_ATMSystem\\ATMSystem\\ATMSystem\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
