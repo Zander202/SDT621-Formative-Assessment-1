@@ -1,0 +1,1 @@
+*.backup.json rm -r --cached .vs/

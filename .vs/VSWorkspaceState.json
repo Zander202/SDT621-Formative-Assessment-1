@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SectionA_Q1_StudentResults",
+    "\\SectionA_Q1_StudentResults\\StudentResults",
+    "\\SectionA_Q1_StudentResults\\StudentResults\\StudentResults"
   ],
-  "SelectedNode": "\\SectionA_Q1_StudentResults",
+  "SelectedNode": "\\SectionA_Q1_StudentResults\\StudentResults\\StudentResults\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
