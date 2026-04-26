@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SectionB_Q1_EmfuleniMunicipality\\EmfuleniMunicipality",
-    "\\SectionB_Q1_EmfuleniMunicipality\\EmfuleniMunicipality\\EmfuleniMunicipality",
     "\\SectionB_Q2_HomeAffairsProcessor",
     "\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor",
     "\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\HomeAffairsProcessor"
   ],
-  "SelectedNode": "\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\HomeAffairsProcessor\\Form1.cs",
+  "SelectedNode": "\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\HomeAffairsProcessor.sln",
   "PreviewInSolutionExplorer": false
 }

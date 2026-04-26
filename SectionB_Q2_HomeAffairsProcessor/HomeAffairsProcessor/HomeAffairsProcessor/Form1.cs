@@ -12,7 +12,7 @@ namespace HomeAffairsProcessor
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // ✅ Always load from resources (reliable)
+            //Always load from resources 
             picCoatOfArms.Image = Properties.Resources.coat_of_arms_of_south_africa_seeklogo;
             picCoatOfArms.SizeMode = PictureBoxSizeMode.Zoom;
             picCoatOfArms.BringToFront();

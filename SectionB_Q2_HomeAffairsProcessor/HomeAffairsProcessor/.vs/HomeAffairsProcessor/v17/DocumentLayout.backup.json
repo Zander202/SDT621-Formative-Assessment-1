@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C258BC-F3B6-40C3-AA1A-807CBD8777D9}|HomeAffairsProcessor\\HomeAffairsProcessor.csproj|c:\\users\\dzand\\desktop\\repos\\sdt621-formative-assessment-1\\sectionb_q2_homeaffairsprocessor\\homeaffairsprocessor\\homeaffairsprocessor\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C7C258BC-F3B6-40C3-AA1A-807CBD8777D9}|HomeAffairsProcessor\\HomeAffairsProcessor.csproj|solutionrelative:homeaffairsprocessor\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C258BC-F3B6-40C3-AA1A-807CBD8777D9}|HomeAffairsProcessor\\HomeAffairsProcessor.csproj|c:\\users\\dzand\\desktop\\repos\\sdt621-formative-assessment-1\\sectionb_q2_homeaffairsprocessor\\homeaffairsprocessor\\homeaffairsprocessor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C258BC-F3B6-40C3-AA1A-807CBD8777D9}|HomeAffairsProcessor\\HomeAffairsProcessor.csproj|solutionrelative:homeaffairsprocessor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\HomeAffairsProcessor\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HomeAffairsProcessor\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\HomeAffairsProcessor\\Form1.Designer.cs",
+              "RelativeToolTip": "HomeAffairsProcessor\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T12:06:55.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\HomeAffairsProcessor\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "HomeAffairsProcessor\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\HomeAffairsProcessor\\Properties\\Resources.resx",
+              "RelativeToolTip": "HomeAffairsProcessor\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-26T12:06:24.558Z",
+              "EditorCaption": ""
             }
           ]
         }
