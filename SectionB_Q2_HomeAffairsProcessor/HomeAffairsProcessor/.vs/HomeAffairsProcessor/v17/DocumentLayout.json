@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C7C258BC-F3B6-40C3-AA1A-807CBD8777D9}|HomeAffairsProcessor\\HomeAffairsProcessor.csproj|c:\\users\\dzand\\desktop\\repos\\sdt621-formative-assessment-1\\sectionb_q2_homeaffairsprocessor\\homeaffairsprocessor\\homeaffairsprocessor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C7C258BC-F3B6-40C3-AA1A-807CBD8777D9}|HomeAffairsProcessor\\HomeAffairsProcessor.csproj|solutionrelative:homeaffairsprocessor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,18 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\HomeAffairsProcessor\\Form1.cs",
-              "RelativeDocumentMoniker": "HomeAffairsProcessor\\Form1.cs",
-              "ToolTip": "C:\\Users\\dzand\\Desktop\\repos\\SDT621-Formative-Assessment-1\\SectionB_Q2_HomeAffairsProcessor\\HomeAffairsProcessor\\HomeAffairsProcessor\\Form1.cs [Design]",
-              "RelativeToolTip": "HomeAffairsProcessor\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T08:29:56.912Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
